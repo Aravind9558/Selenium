@@ -7,8 +7,13 @@ public class Sample {
 
 	}
 	
+
+	private void code2() {
+		System.out.println("code2");
+	}
 	private void code1() {
 		System.out.println("code1");
+
 
 	}
 	
