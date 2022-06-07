@@ -7,6 +7,11 @@ public class Sample {
 
 	}
 	
+	private void code1() {
+		System.out.println("code1");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		
